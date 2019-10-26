@@ -18,3 +18,6 @@ streamlit run plotter2.py
 
 * Different classifiers can be used in each stream.
 * Each classifier can respond to its own changes as can be seen in the demo (Also can be showed through tockloader listen)
+
+
+Collaborated with Shashwat Kumar on the IPC stuff.
